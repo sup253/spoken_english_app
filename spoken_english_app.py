@@ -1,7 +1,7 @@
 import streamlit as st
 import os
 import tempfile
-import openai
+
 
 # Uncomment if you're using OpenAI's GPT for conversation
 # openai.api_key = "your-openai-api-key"
